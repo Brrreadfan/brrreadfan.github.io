@@ -49,7 +49,7 @@
         <!-- The RSS image tag displays an image to aggregators digesting this feed. It has 4 children tags: url, title, link, and description. -->
         <image>
             <!-- This url tag links directly to the image file's location. Be sure CORS policy allows all origins and headers. -->
-            <url>https://github.com/Brrreadfan/brrreadfan.github.io/blob/main/misbits%20logo%20square.png?raw=true</url>
+            <url>https://github.com/artwork/misbits logo square.png</url>
             <!-- This tag is the title for the image. -->
             <title>Misbits</title>
             <!-- Below is another opportunity to add a link. A link to the band website is most commonly used here also. -->
@@ -122,7 +122,7 @@
                 attribute shows the file's standard MIME type. If you are updating the tag with your own mp3 file, change the url to point to your own
                 hosted mp3 file and change the length to the size of your mp3 in bytes.
                 For a list of common MIME types see https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types   -->
-            <enclosure url="https://github.com/Brrreadfan/brrreadfan.github.io/blob/main/Die%2C%20Die%20My%20Dollar.mp3?raw=true" length="10343960" type="audio/mpeg"/>
+            <enclosure url="https://brrreadfan.github.io/music/Die, Die My Dollar.mp3" length="10343960" type="audio/mpeg"/>
             <!-- The "itunes:duration" tag defines the total duration of the enclosure file in HH:MM:SS format. It currently is required for Fountain Radio
                   functionality, although most podcasting and decentralized music apps surface the duration directly from the file. As such, this tag was
                   previously considered optional for decentralized music feeds, but should be included if you want your music to work in Fountain Radio. -->
