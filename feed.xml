@@ -1,13 +1,9 @@
 <rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
-        <title>Brrreadfan's Pleb Tunes</title>
+        <title>Pleb Tunes by Brrreadfan</title>
         <itunes:author>Brrreadfan</itunes:author>
         <description><![CDATA[
-			<p>Die, die, die my Dollar</p><p>Don’t shudder at Proof of Work</p><p>Die, die, die my Dollar</p><p>Just print your pretty lies</p><p>I’m not feeding you again</p><p>And no-one’s feeding you in hell</p>
-			<p>Don’t cry for Fiat baby</p><p>Our future's built on orange blocks</p><p>Don’t cry for Fiat baby</p><p>We plant a seed and just let it grow</p><p>Don’t cry for Fiat baby</p><p>And we know it is in our power</p><p>Don’t cry for Fiat baby</p><p>Better gold for a better world</p><p>Don’t cry for Fiat baby</p><p>And now our life gains so much more</p><p>Don’t cry for Fiat baby</p>
-			<p>Die, die, die my Dollar</p><p>Don’t shudder at Proof of Work</p><p>Die, die, die my Dollar</p><p>Just shut your greedy mouth</p><p>I’m not feeding you again</p><p>And no-one’s feeding you in hell</p>
-			<p>Dollar die! Dollar die!</p>
-			<p>Go make some Bitcoin babies!</p>
+			<p>Just a Bitcoin pleb butchering your favourite songs!</p>
 			]]></description>
         <language>en</language>
         <generator>Handcrafted from Demu Open Source Template v0.1.1</generator>
@@ -22,7 +18,7 @@
             <title>My Demu Album</title>
             <description>Demu Emu on My Demu Album art</description>
         </image>
-		<itunes:image href="https://brrreadfan.github.io/artwork/misbits-logo-square.png" />
+		<itunes:image href="https://brrreadfan.github.io/artwork/brrreadfan-profile.jpg" />
         <podcast:medium>music</podcast:medium>
         <podcast:value type="lightning" method="keysend" suggested="0.000002100">
             <podcast:valueRecipient name="Brrreadfan" address="brrreadfan@getalby.com" split="98" type="node" />
@@ -30,7 +26,13 @@
         </podcast:value>
         <item>
             <title>Die, Die My Dollar</title>
-            <description>Pleb Cover of "Die, Die My Darling" by the Misfits</description>
+            <description><![CDATA[
+			<p>Die, die, die my Dollar</p><p>Don’t shudder at Proof of Work</p><p>Die, die, die my Dollar</p><p>Just print your pretty lies</p><p>I’m not feeding you again</p><p>And no-one’s feeding you in hell</p>
+			<p>Don’t cry for Fiat baby</p><p>Our future's built on orange blocks</p><p>Don’t cry for Fiat baby</p><p>We plant a seed and just let it grow</p><p>Don’t cry for Fiat baby</p><p>And we know it is in our power</p><p>Don’t cry for Fiat baby</p><p>Better gold for a better world</p><p>Don’t cry for Fiat baby</p><p>And now our life gains so much more</p><p>Don’t cry for Fiat baby</p>
+			<p>Die, die, die my Dollar</p><p>Don’t shudder at Proof of Work</p><p>Die, die, die my Dollar</p><p>Just shut your greedy mouth</p><p>I’m not feeding you again</p><p>And no-one’s feeding you in hell</p>
+			<p>Dollar die! Dollar die!</p>
+			<p>Go make some Bitcoin babies!</p>
+			]]></description>
             <pubDate>Sun, 18 AUG 2024 16:20:33 -0500</pubDate>
             <guid isPermaLink="false">bd13a889-82f2-4937-8c70-5a85df71adab</guid>
             <itunes:image href="https://brrreadfan.github.io/artwork/misbits-logo-square.png" />
