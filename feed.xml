@@ -3,7 +3,7 @@
         <title>Brrreadfan's Pleb Tunes</title>
         <itunes:author>Brrreadfan</itunes:author>
         <description>
-			Die, die, die my Dollar
+			<![CDATA[Die, die, die my Dollar
 			Don’t shudder at Proof of Work 
 			Die, die, die my Dollar
 			Just print your pretty lies
@@ -31,7 +31,8 @@
 			
 			Dollar die! Dollar die!
 			
-			Go make some Bitcoin babies!
+			Go make some Bitcoin babies!]]>
+			
 
  
 		</description>
