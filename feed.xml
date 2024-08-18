@@ -17,6 +17,7 @@
             <title>My Demu Album</title>
             <description>Demu Emu on My Demu Album art</description>
         </image>
+		<itunes:image href="https://brrreadfan.github.io/artwork/misbits-logo-square.png" />
         <podcast:medium>music</podcast:medium>
         <podcast:value type="lightning" method="keysend" suggested="0.000002100">
             <podcast:valueRecipient name="Brrreadfan" address="brrreadfan@getalby.com" split="98" type="node" />
