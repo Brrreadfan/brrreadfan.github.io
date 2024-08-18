@@ -2,8 +2,9 @@
     <channel>
         <title>Brrreadfan's Pleb Tunes</title>
         <itunes:author>Brrreadfan</itunes:author>
-        <description>
-			<![CDATA[<p>Die, die, die my Dollar</p><p>Don’t shudder at Proof of Work
+        <description><![CDATA[
+			<p>Die, die, die my Dollar</p>
+			<p>Don’t shudder at Proof of Work</p>
 			Die, die, die my Dollar 
 			Just print your pretty lies
 			I’m not feeding you again
@@ -30,10 +31,8 @@
 			
 			Dollar die! Dollar die!
 			
-			Go make some Bitcoin babies!</p></p>]]> 
-			
-			
-		</description>
+			Go make some Bitcoin babies!
+			]]></description>
         <language>en</language>
         <generator>Handcrafted from Demu Open Source Template v0.1.1</generator>
         <pubDate>Sun, 18 AUG 2024 16:20:33 -0500</pubDate>
