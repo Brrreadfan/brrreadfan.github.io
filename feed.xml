@@ -3,10 +3,10 @@
         <title>Brrreadfan's Pleb Tunes</title>
         <itunes:author>Brrreadfan</itunes:author>
         <description>
-			Die, die, die my Dollar &#xD;
-			Don’t shudder at Proof of Work &#xD; 
-			Die, die, die my Dollar &#xD;
-			Just print your pretty lies &#xD;
+			<![CDATA[Die, die, die my Dollar<br/>
+			Don’t shudder at Proof of Work<br/> 
+			Die, die, die my Dollar 
+			Just print your pretty lies
 			I’m not feeding you again
 			And no-one’s feeding you in hell
 
@@ -31,7 +31,8 @@
 			
 			Dollar die! Dollar die!
 			
-			Go make some Bitcoin babies!
+			Go make some Bitcoin babies!]]>
+			
 		</description>
         <language>en</language>
         <generator>Handcrafted from Demu Open Source Template v0.1.1</generator>
