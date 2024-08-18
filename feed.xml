@@ -35,7 +35,7 @@
         <item>
             <title>The Misbits - Die, Die My Dollar</title>
             <description><![CDATA[
-			<p>Die, die, die my Dollar</p><p>Don’t shudder at Proof of Work</p><p>Die, die, die my Dollar</p><p>Just print your pretty lies</p><p>I’m not feeding you again</p><p>And no-one’s feeding you in hell</p>
+			<p>Die, die, die my Dollar</p><p>Don’t shudder at Proof of Work</p>Die, die, die my Dollar</p><p>Just print your pretty lies</p><p>I’m not feeding you again</p><p>And no-one’s feeding you in hell</p>
 			<p>Don’t cry for Fiat baby</p><p>Our future's built on orange blocks</p><p>Don’t cry for Fiat baby</p><p>We plant a seed and just let it grow</p><p>Don’t cry for Fiat baby</p><p>And we know it is in our power</p><p>Don’t cry for Fiat baby</p><p>Better gold for a better world</p><p>Don’t cry for Fiat baby</p><p>And now our life gains so much more</p><p>Don’t cry for Fiat baby</p>
 			<p>Die, die, die my Dollar</p><p>Don’t shudder at Proof of Work</p><p>Die, die, die my Dollar</p><p>Just shut your greedy mouth</p><p>I’m not feeding you again</p><p>And no-one’s feeding you in hell</p>
 			<p>Dollar die! Dollar die!</p>
@@ -46,6 +46,68 @@
             <itunes:image href="https://brrreadfan.github.io/artwork/misbits-logo-square.png" />
             <enclosure url="https://brrreadfan.github.io/music/Die_Die_My_Dollar.mp3" length="10343960" type="audio/mpeg"/>
             <itunes:duration>00:04:06</itunes:duration>
+            <podcast:episode>1</podcast:episode>
+	        <podcast:value type="lightning" method="keysend" suggested="0.000002100">
+	            <podcast:valueRecipient name="Brrreadfan" address="brrreadfan@getalby.com" split="98" type="node" />
+	            <podcast:valueRecipient name="the Wolf" address="03ecb3ee55ba6324d40bea174de096dc9134cb35d990235723b37ae9b5c49f4f53" split="1" type="node" />
+				<podcast:valueRecipient
+				    name="boostbot@fountain.fm"
+				    type="node"
+				    address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79"
+				    customKey="906608"
+				    customValue="01IMQkt4BFzAiSynxcQQqd"
+				    split="1"
+				  />
+	        </podcast:value>
+        </item>
+		
+        <item>
+            <title>NakamoTool - Right In Two</title>
+            <description><![CDATA[
+			<p>Austrians on the sidelinemuzzled and abused</p>Why did Keynesians give these humans Fiat?</p>Now they’re all confused</p>Don’t these talking monkeys know</p>they bleed themselves and snuff each other out?</p>Undermine their golden time for silly money,</p>boom-and-bust is bound to divide it</p>Right in two</p>
+			<p>Austrians on the sideline</p>baffled and amused</p>Someone blessed them all with Bitcoin</p>And this is what they choose?</p>Monkey printing money, killing monkey,</p>no more peace no common ground</p>Silly monkeys,</p>Give them crumbs, they forge a state</p>and governments are bound to divide them</p>Right in two</p>
+			Right in two
+
+			Monkey printing money, killing monkey,
+			Won’t this spiral turn around?
+			Clever monkeys,
+			Cypherpunks build bottom up, 
+			Make tyrants topple down
+
+			How they’ve survived 
+			so misguided without Satoshi?
+			Abundance hunting creatures 
+			shall not squander all their energy
+			But grow with every halving 
+			conscious of their fleeting time here
+
+Cut the mining reward right in two
+Cut the mining reward right in two
+Cut the mining reward right in two
+Cut the mining reward right in two
+
+Mine, verify, store the sun, clear the sky
+They mine, verify, sow the seeds for their heirs
+They mine, verify, no more blood, for more love
+They mine, verify, world is decentralizing
+
+Keynesians on the sideline again
+Banished by deflation and reason
+Keynesians on the sideline again
+Finally all those Fiat wars will end
+
+Cut the mining reward right in two
+Cut the mining reward right in two
+Cut the mining reward right in two
+Right in two
+
+Right in two</p>
+			]]></description>
+            <pubDate>Sun, 18 AUG 2024 16:20:33 -0500</pubDate>
+            <guid isPermaLink="false">bd13a889-82f2-4937-8c70-5a85df71adab</guid>
+            <itunes:image href="https://brrreadfan.github.io/artwork/misbits-logo-square.png" />
+            <enclosure url="https://brrreadfan.github.io/music/Die_Die_My_Dollar.mp3" length="18700038" type="audio/mpeg"/>
+            <itunes:duration>00:07:28</itunes:duration>
             <podcast:episode>1</podcast:episode>
 	        <podcast:value type="lightning" method="keysend" suggested="0.000002100">
 	            <podcast:valueRecipient name="Brrreadfan" address="brrreadfan@getalby.com" split="98" type="node" />
