@@ -135,9 +135,7 @@
                 so person tags who are also relevant to this specific item should be listed at both the item and channel levels. -->
             <!-- <podcast:person href="https://twitter.com/demu_emu" img="https://pbs.twimg.com/profile_images/1566110862087278593/puLJTmxF_400x400.jpg" group="music" role="band">Demu Emu</podcast:person> -->
             <!-- <podcast:person href="https://bowlafterbowl.com" img="https://ableandthewolf.com/static/media/spencer.9d14ce10e9cb3ccfba6b.jpg" group="writing" role="songwriter">SirSpencer</podcast:person> -->
-			<itunes:image
-			      href="https://brrreadfan.github.io/artwork/misbits-logo-square.png"
-			    />
+			<itunes:imagehref="https://brrreadfan.github.io/artwork/misbits-logo-square.png"/>
         </item>
     </channel>
 </rss>
