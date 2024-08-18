@@ -135,16 +135,9 @@
                 so person tags who are also relevant to this specific item should be listed at both the item and channel levels. -->
             <!-- <podcast:person href="https://twitter.com/demu_emu" img="https://pbs.twimg.com/profile_images/1566110862087278593/puLJTmxF_400x400.jpg" group="music" role="band">Demu Emu</podcast:person> -->
             <!-- <podcast:person href="https://bowlafterbowl.com" img="https://ableandthewolf.com/static/media/spencer.9d14ce10e9cb3ccfba6b.jpg" group="writing" role="songwriter">SirSpencer</podcast:person> -->
-	        <image>
-	            <!-- This url tag links directly to the image file's location. Be sure CORS policy allows all origins and headers. -->
-	            <url>https://brrreadfan.github.io/artwork/misbits-logo-square.png</url>
-	            <!-- This tag is the title for the image. -->
-	            <title>Misbits</title>
-	            <!-- Below is another opportunity to add a link. A link to the band website is most commonly used here also. -->
-	            <!-- <link>https://ableandthewolf.com</link> -->
-	            <!-- This "description" tag can be used to describe the artwork or the album as a whole. -->
-	            <description>Demu Emu on My Demu Album art</description>
-	        </image>
+			<itunes:image
+			      href="https://brrreadfan.github.io/artwork/misbits-logo-square.png"
+			    />
         </item>
     </channel>
 </rss>
