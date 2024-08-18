@@ -108,7 +108,7 @@ Right in two</p>
             <itunes:image href="https://brrreadfan.github.io/artwork/NakamoTool-210k-blocks-cover.png" />
             <enclosure url="https://brrreadfan.github.io/music/Nakamotool-Right_in_two.mp3" length="18700038" type="audio/mpeg"/>
             <itunes:duration>00:07:28</itunes:duration>
-            <podcast:episode>1</podcast:episode>
+            <podcast:episode>2</podcast:episode>
 	        <podcast:value type="lightning" method="keysend" suggested="0.000002100">
 	            <podcast:valueRecipient name="Brrreadfan" address="brrreadfan@getalby.com" split="98" type="node" />
 	            <podcast:valueRecipient name="the Wolf" address="03ecb3ee55ba6324d40bea174de096dc9134cb35d990235723b37ae9b5c49f4f53" split="1" type="node" />
