@@ -19,7 +19,8 @@
         <podcast:location>The Free and Open Internet</podcast:location>
         <itunes:image href="https://brrreadfan.github.io/artwork/brrreadfan-profile.jpg" />
         <podcast:medium>music</podcast:medium>
-        <item>
+        
+	<item>
             <title>The Misbits - Die, Die My Dollar</title>
             <description><![CDATA[
 		    	<p>The Misbits - Die, Die My Dollar </p>
@@ -41,13 +42,12 @@
             <enclosure url="https://brrreadfan.github.io/music/Die_Die_My_Dollar.mp3" length="10343960" type="audio/mpeg"/>
             <itunes:duration>00:04:06</itunes:duration>
             <podcast:episode>1</podcast:episode>
-	            
-        </item>
+	</item>
 		
         <item>
             <title>NakamoTool - Right In Two</title>
             <description><![CDATA[
-		    	<p>Nakamotool - Right in Two </p>
+		    	<p>NakamoTool - Right in Two </p>
 			Original: "Right in Two" by Tool (album: 10,000 days) </p>
 		    	Lyrics video: https://www.youtube.com/watch?v=ZGJ7TIngaBY </p></p>
 
@@ -106,6 +106,8 @@
 			Cut the mining reward right in two </p>
 			Right in two </p>
 			Right in two</p>
+		    	</p>Backing-Track source: https://www.youtube.com/watch?v=axU6jNL52E4
+		    	
 			]]></description>
             <pubDate>Sun, 18 AUG 2024 16:20:33 -0500</pubDate>
             <guid isPermaLink="false">bd13a889-82f2-4937-8c70-5a85df71adab</guid>
@@ -113,8 +115,6 @@
             <enclosure url="https://brrreadfan.github.io/music/Nakamotool-Right_in_two.mp3" length="18700038" type="audio/mpeg"/>
             <itunes:duration>00:07:28</itunes:duration>
             <podcast:episode>2</podcast:episode>
-	        
-		
-        </item>
+	</item>
     </channel>
 </rss>
