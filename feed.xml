@@ -36,7 +36,13 @@
 			<p>Die, die, die my Dollar</p><p>Don’t shudder at Proof of Work</p><p>Die, die, die my Dollar</p><p>Just shut your greedy mouth</p><p>I’m not feeding you again</p><p>And no-one’s feeding you in hell</p>
 			<p>Dollar die! Dollar die!</p>
 			<p>Go make some Bitcoin babies!</p>
-			]]></description>
+			]]>
+	    </description>
+		<podcast:transcript
+  		url="https://brrreadfan.github.io/subtitles/misbits-lyrics.srt"
+  		type="text/plain"
+  		rel="captions"
+		/>
             <pubDate>Sun, 18 AUG 2024 16:20:33 -0500</pubDate>
             <guid isPermaLink="false">2a32bd4a-d36d-40d4-8cdc-3fe100c59369</guid>
             <itunes:image href="https://brrreadfan.github.io/artwork/misbits-logo-square.png" />
