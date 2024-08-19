@@ -7,7 +7,8 @@
  	<podcast:valueRecipient name="the Wolf" address="03ecb3ee55ba6324d40bea174de096dc9134cb35d990235723b37ae9b5c49f4f53" split="1" type="node" /> 
 	</podcast:value>
         <description><![CDATA[
-			<p>Just a Bitcoin pleb butchering your favourite songs!</p>
+			<p>Just a Bitcoin pleb butchering your favourite tunes!</p>
+			nostr: brrreadfan@getalby.com </p>
 			]]></description>
         <language>en</language>
         <generator>Handcrafted by Brrreadfan from Demu Open Source Template v0.1.1</generator>
