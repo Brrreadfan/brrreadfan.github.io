@@ -24,18 +24,6 @@
         </image>
 		<itunes:image href="https://brrreadfan.github.io/artwork/brrreadfan-profile.jpg" />
         <podcast:medium>music</podcast:medium>
-        <podcast:value type="lightning" method="keysend" suggested="0.000002100">
-            <podcast:valueRecipient name="Brrreadfan" address="brrreadfan@getalby.com" split="98" type="node" />
-            <podcast:valueRecipient name="the Wolf" address="03ecb3ee55ba6324d40bea174de096dc9134cb35d990235723b37ae9b5c49f4f53" split="1" type="node" />
-			<podcast:valueRecipient
-			    name="boostbot@fountain.fm"
-			    type="node"
-			    address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79"
-			    customKey="906608"
-			    customValue="01IMQkt4BFzAiSynxcQQqd"
-			    split="1"
-			  />
-        </podcast:value>
         <item>
             <title>The Misbits - Die, Die My Dollar</title>
             <description><![CDATA[
