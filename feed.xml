@@ -3,7 +3,7 @@
         <title>Pleb Tunes by Brrreadfan</title>
         <itunes:author>Brrreadfan</itunes:author>
 	<podcast:value type="lightning" method="keysend">
-    	<podcast:valueRecipient name="brrreadfan@getalby.com" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969"  customValue="dGutE2AyL5yvUVzutWRp" split="100"/>
+    	<podcast:valueRecipient name="brrreadfan@getalby.com" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969"  customValue="dGutE2AyL5yvUVzutWRp" split="99"/>
  	<podcast:valueRecipient name="the Wolf" address="03ecb3ee55ba6324d40bea174de096dc9134cb35d990235723b37ae9b5c49f4f53" split="1" type="node" /> 
 	</podcast:value>
         <description><![CDATA[
@@ -34,7 +34,7 @@
 			<p>Go make some Bitcoin babies!</p>
 			]]></description>
             <pubDate>Sun, 18 AUG 2024 16:20:33 -0500</pubDate>
-            <guid isPermaLink="false">bd13a889-82f2-4937-8c70-5a85df71adab</guid>
+            <guid isPermaLink="false">2a32bd4a-d36d-40d4-8cdc-3fe100c59369</guid>
             <itunes:image href="https://brrreadfan.github.io/artwork/misbits-logo-square.png" />
             <enclosure url="https://brrreadfan.github.io/music/Die_Die_My_Dollar.mp3" length="10343960" type="audio/mpeg"/>
             <itunes:duration>00:04:06</itunes:duration>
