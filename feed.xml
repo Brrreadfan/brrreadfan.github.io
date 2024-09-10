@@ -22,8 +22,7 @@
         <podcast:location>The Free and Open Internet</podcast:location>
         <itunes:image href="https://brrreadfan.github.io/artwork/brrreadfan-profile.jpg" />
         <podcast:medium>music</podcast:medium>
-        
-	<item>
+        <item>
             <title>The Misbits - Die, Die My Dollar</title>
             <description><![CDATA[
 		    	<p>The Misbits - Die, Die My Dollar </p>
@@ -50,8 +49,7 @@
             <itunes:duration>00:04:06</itunes:duration>
             <podcast:episode>1</podcast:episode>
 	</item>
-		
-        <item>
+	<item>
             <title>NakamoTool - Right In Two</title>
             <description><![CDATA[
 		    	<p>NakamoTool - Right in Two </p>
@@ -123,7 +121,6 @@
             <itunes:duration>00:07:28</itunes:duration>
             <podcast:episode>2</podcast:episode>
 	</item>
-
 	<item>
             <title>Fiat Prison Blues (Chaum E. Cash)</title>
             <description><![CDATA[
@@ -177,7 +174,6 @@
             <itunes:duration>00:02:43</itunes:duration>
             <podcast:episode>3</podcast:episode>
 	</item>
-	    
 	<item>
             <title>Bitcoin - Open Up Your Mind (Brrreadfan)</title>
             <description><![CDATA[
