@@ -177,5 +177,94 @@
             <itunes:duration>00:02:43</itunes:duration>
             <podcast:episode>3</podcast:episode>
 	</item>
+	    
+	<item>
+            <title>Bitcoin - Open Up Your Mind (Brrreadfan)</title>
+            <description><![CDATA[
+		    	<p>Bitcoin - Open Up Your Mind</p>
+			based on the song "Breadfan" - originally by 70s band BUDGIE, later covered by METALLICA</p>
+		    	R.I.P. Burke Shelley (1950-2022)</p>
+			https://www.youtube.com/watch?v=vOYgg8aEYJk</p></p>
+		    	Lyrics:</p></p>
+			<p>Bitcoin</p>
+			open up your mind</p>
+			open up your purse</p>
+			break the fiat curse</p>
+			never never gonna lose it</p>
+			Bitcoin</p>
+			never go away</p>
+			never give an inch</p>
+			divide everything into 21 Million</p>
+			Bitcoin</p>
+			you hodl strong</p>
+			make long time Friends</p>
+			lower time Preference</p>
+			what a tool</p>
+			Shitcoin</p>
+			give it all away</p>
+			stay a dog</p>
+			stay a kitty</p>
+			watch a punk copy-paste your NFT</p></p>
+
+			Laser ray 'til hundred k</p>
+		    	gotta slay you on Twitter</p>
+			who's the man with all the fiat money?</p>
+			come on! Keep it all in sats</p>
+			hitch a ride from the lows to the highs</p>
+			if you're gonna be a based Boy</p>
+			Bitcoin</p>
+			you hodl strong</p>
+			make long time Friends</p>
+			lower time Preference</p>
+			what a tool</p>
+			Shitcoin</p>
+			give it all away</p>
+			stay a dog</p>
+			stay a kitty</p>
+			watch a punk copy-paste your NFT</p></p>
+
+			Time to throw my keys away</p>
+			cause I'm never gonna stay</p>
+			cause I</p>
+			I don't need it</p>
+			Don't you feel it in your veins?</p>
+			Fixed your money</p>
+			now fix your world</p>
+			but I</p>
+			I'm leaving</p></p>
+			
+		    	<p>Bitcoin</p>
+			open up your mind</p>
+			open up your purse</p>
+			break the fiat curse</p>
+			never never gonna lose it</p>
+			Bitcoin</p>
+			never go away</p>
+			never give an inch</p>
+			divide everything into 21 Million</p>
+			Bitcoin</p>
+			you hodl strong</p>
+			make long time Friends</p>
+			lower time Preference</p>
+			what a tool</p>
+			Shitcoin</p>
+			give it all away</p>
+			stay a dog</p>
+			stay a kitty</p>
+			watch a punk copy-paste your NFT</p></p>
+		    	]]>
+	    </description>
+		<podcast:transcript
+  		url="https://brrreadfan.github.io/subtitles/misbits-lyrics.srt"
+  		type="text/plain"
+  		rel="captions"
+		/>
+            <pubDate>Sun, 18 AUG 2024 16:25:33 -0500</pubDate>
+            <guid isPermaLink="false">413f768e-b53b-4241-a620-d88f134518ef</guid>
+            <itunes:image href="https://brrreadfan.github.io/artwork/brrreadfan_openupyourmindx1400.png" />
+            <enclosure url="https://brrreadfan.github.io/music/Brrreadfan-Bitcoin_Open_Up_Your_Mind.mp3" length="9123760" type="audio/mpeg"/>
+            <itunes:duration>00:05:34</itunes:duration>
+            <podcast:episode>4</podcast:episode>
+	</item>
     </channel>
 </rss>
