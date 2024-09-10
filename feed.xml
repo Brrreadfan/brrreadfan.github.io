@@ -125,5 +125,56 @@
             <itunes:duration>00:07:28</itunes:duration>
             <podcast:episode>2</podcast:episode>
 	</item>
+
+	<item>
+            <title>Fiat Prison Blues (Chaum E. Cash)</title>
+            <description><![CDATA[
+		    	<p>I fear inflation's coming</p>
+			The rainbow chart is bent</p>
+			And I ain't seen the sunshine since</p>
+			I've overspent</p>
+			I'm stuck at Fiat Prison</p>
+			Blocktime keeps draggin' on</p>
+			But that chain keeps rollin'</p>
+			The rules are set in stone</p>
+
+			When I was just a baby</p>
+			Satoshi told me 'Son,</p>
+			Always be a good boy,</p>
+			Don't ever trade your funds"</p>
+			But I joined crypto casinos</p>
+			Just to watch them die</p>
+			When I hear those shitcoins blowin'</p>
+			I kiss my sats goodbye</p>
+
+			(Sue 'em!)</p>
+
+			I bet there's rich whole-coiners</p>
+			Driving fancy Lambo cars</p>
+			They probably pay their coffee</p>
+			With Lightning-zaps on mars</p>
+			Well I know I had it comin'</p>
+			I never held my keys</p>
+			But those plebs keep on stackin'</p>
+			And FOMO tortures me</p>
+
+			I guess I'm free to leave this prison</p>
+			If that private key was mine</p>
+			I'd back it up and move it</p>
+			into cold storage offline</p>
+			Far from Fiat Prison</p>
+			I'd run my DCA</p>
+			And I'd let that orange pill lesson</p>
+			Blow my mind away</p>
+
+		    	
+			]]></description>
+            <pubDate>Sun, 18 AUG 2024 16:21:33 -0500</pubDate>
+            <guid isPermaLink="false">488e0333-63a1-4d62-9a69-4668f705c832</guid>
+            <itunes:image href="https://brrreadfan.github.io/artwork/fiatprisonthumbnailx1400.png" />
+            <enclosure url="https://brrreadfan.github.io/music/Fiat_Prison_Blues.mp3" length="7231574" type="audio/mpeg"/>
+            <itunes:duration>00:02:43</itunes:duration>
+            <podcast:episode>3</podcast:episode>
+	</item>
     </channel>
 </rss>
