@@ -2,7 +2,6 @@
     <channel>
         <title>Pleb Tunes by Brrreadfan</title>
         <itunes:author>Brrreadfan</itunes:author>
-	<podcast:value type="lightning" method="keysend">
     	<podcast:value type="lightning" method="keysend">
     <podcast:valueRecipient name="brrreadfan@getalby.com" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969"  customValue="dGutE2AyL5yvUVzutWRp" split="99"/>
   </podcast:value>
