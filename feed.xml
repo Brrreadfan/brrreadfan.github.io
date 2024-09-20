@@ -4,7 +4,6 @@
         <itunes:author>Brrreadfan</itunes:author>
     	<podcast:value type="lightning" method="keysend">
     <podcast:valueRecipient name="brrreadfan@getalby.com" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969"  customValue="dGutE2AyL5yvUVzutWRp" split="99"/>
-  </podcast:value>
  	<podcast:valueRecipient name="the Wolf" address="03ecb3ee55ba6324d40bea174de096dc9134cb35d990235723b37ae9b5c49f4f53" split="1" type="node" /> 
 	</podcast:value>
         <description><![CDATA[
